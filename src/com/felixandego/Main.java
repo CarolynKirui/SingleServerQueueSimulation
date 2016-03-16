@@ -7,6 +7,6 @@ package com.felixandego;
 public class Main {
 
     public static void main(String[] args) {
-	    new SingleServer().launch(); // Launch the Server !!
+	    new SingleServer().launch(); // Launch the simulator !!
     }
 }
